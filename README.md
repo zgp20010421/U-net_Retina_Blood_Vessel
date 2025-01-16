@@ -1,9 +1,7 @@
-# U-net_Retina_Blood_Vessel
-基于U-net分割模型(添加SEnet的Attention)的视网膜分割分析(Retina_Blood_Vessel)
 # 构建U-net模型分割视网膜分析(添加SENet注意力机制 tensorflow) 
 ## 项目构建步骤
 ### 1.获取该项目
-    从Github的https://github.com/zgp20010421/U-net_Retina_Blood_Vessel.git
+从Github的https://github.com/zgp20010421/U-net_Retina_Blood_Vessel.git
 ```bash
     git clone https://github.com/zgp20010421/U-net_Retina_Blood_Vessel.git
 ```
