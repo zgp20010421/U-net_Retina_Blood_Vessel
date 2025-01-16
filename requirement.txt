@@ -8,3 +8,5 @@ scikit-learn=1.3.2
 seaborn=0.12.2
 keras
 pandas=2.0.2
+ipykernel
+jupyter notebook
